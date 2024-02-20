@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+src/__init__.py
+src/model.py
+src/train.py
+src/utils.py
+src/testpackaging.egg-info/PKG-INFO
+src/testpackaging.egg-info/SOURCES.txt
+src/testpackaging.egg-info/dependency_links.txt
+src/testpackaging.egg-info/requires.txt
+src/testpackaging.egg-info/top_level.txt
+tests/__init__.py
+tests/test_model.py

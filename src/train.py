@@ -1,7 +1,7 @@
-import os  # We'll need the 'os' module 
+import os 
 import tensorflow as tf
 from src.model import create_model
-from src.utils import load_and_preprocess_fashion_mnist 
+from src.utils import load_and_preprocess_fashion_mnist
 
 def main():
     # Load and preprocess data
