@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+src/__init__.py
+src/model.py
+src/train.py
+src/utils.py
+src/MLOps_V_0.1.egg-info/PKG-INFO
+src/MLOps_V_0.1.egg-info/SOURCES.txt
+src/MLOps_V_0.1.egg-info/dependency_links.txt
+src/MLOps_V_0.1.egg-info/requires.txt
+src/MLOps_V_0.1.egg-info/top_level.txt
+tests/__init__.py
+tests/test_model.py

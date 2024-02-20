@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: MLOps-V-0.1
+Version: 1.0.0
+Requires-Dist: tensorflow>=2.5.0
